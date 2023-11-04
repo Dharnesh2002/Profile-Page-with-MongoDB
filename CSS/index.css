@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    font-size: 30px;
+    color: aquamarine;
+    margin-top: 200px;
+    margin-left: 400px;
+}
+.button{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+button{
+    border-radius: 10px;
+    padding:10px;
+    border: 5px solid dodgerblue;
+    font-size: 30px;
+    border-style: groove;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+button:hover{
+    background-color: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+    
+}

@@ -1,0 +1,28 @@
+form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+    border: 5px solid dodgerblue;
+    padding: 40px;
+    border-start-start-radius: 20px;
+    border-end-end-radius: 20px;
+}
+.mkc{
+    margin-left: 180px;
+}
+button{
+    color: white;
+    background-color: dodgerblue;
+    border: 0px;
+    padding: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(109, 179, 248);
+}
+h1{
+    margin-left: 500px;
+    padding-top: 50px;
+}
